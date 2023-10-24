@@ -16,6 +16,6 @@ public final class Constants
         REPLAY
     }
 }
-//It's a code
+//It's the right code
 
-//2 + 2 = 5
+//2 + 2 = 4
